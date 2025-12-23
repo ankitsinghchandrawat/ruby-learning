@@ -16,7 +16,7 @@ def displaystring(*args) # Method with variable number of arguments
         puts str 
     end # end of iteration
 end
-displaystring("Ruby", "is", "fun!") # Calling method with multiple arguments
+displaystring("Ruby", "is", "fun!") 
 
 # --- IGNORE ---
 
