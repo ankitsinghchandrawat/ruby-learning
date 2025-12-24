@@ -46,6 +46,6 @@ when 80..89 then
 when 70..79 then
   puts "getting c grade"
 else
-  puts "youare not doing well"
+  puts "you are not doing well"
 end
 puts result
