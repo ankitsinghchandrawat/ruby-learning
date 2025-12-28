@@ -49,4 +49,5 @@ else
   puts "you are not doing well"
 end
 puts result
-#end here
+#end here 
+#now we ends range
