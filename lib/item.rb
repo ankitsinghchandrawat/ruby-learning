@@ -1,8 +1,7 @@
 =begin
 i want to make a bill system for a shop adding tax
 =end
-require_relative 'tax_calculator'
-require_relative 'receipt'
+
 class Item
    
     def initialize(name, price,category,imported)
