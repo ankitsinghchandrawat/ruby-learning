@@ -29,6 +29,7 @@ end
 calculator = TaxCalculator.new
 receipt = Receipt.new(items, calculator)
 receipt.print
+#end
 
 
  
