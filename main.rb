@@ -30,6 +30,7 @@ calculator = TaxCalculator.new
 receipt = Receipt.new(items, calculator)
 receipt.print
 #end here code 
+# The above code defines a simple command-line application that allows the user to input details about items, calculates the taxes using the TaxCalculator class, and prints a receipt using the Receipt class. The user is prompted to enter the number of items, and for each item, they provide the name, price, category, and whether it is imported. The application then processes this information and generates a receipt with the calculated taxes and total price.  
 
 
  
